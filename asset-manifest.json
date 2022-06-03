@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://ankit-lather.github.io/csb-myqv7b/static/js/main.0cbea0c0.chunk.js",
+    "main.js.map": "https://ankit-lather.github.io/csb-myqv7b/static/js/main.0cbea0c0.chunk.js.map",
+    "runtime-main.js": "https://ankit-lather.github.io/csb-myqv7b/static/js/runtime-main.b6f5530e.js",
+    "runtime-main.js.map": "https://ankit-lather.github.io/csb-myqv7b/static/js/runtime-main.b6f5530e.js.map",
+    "static/js/2.5b73a998.chunk.js": "https://ankit-lather.github.io/csb-myqv7b/static/js/2.5b73a998.chunk.js",
+    "static/js/2.5b73a998.chunk.js.map": "https://ankit-lather.github.io/csb-myqv7b/static/js/2.5b73a998.chunk.js.map",
+    "index.html": "https://ankit-lather.github.io/csb-myqv7b/index.html",
+    "precache-manifest.a2d48e94f4960a22ff028005027a5231.js": "https://ankit-lather.github.io/csb-myqv7b/precache-manifest.a2d48e94f4960a22ff028005027a5231.js",
+    "service-worker.js": "https://ankit-lather.github.io/csb-myqv7b/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6f5530e.js",
+    "static/js/2.5b73a998.chunk.js",
+    "static/js/main.0cbea0c0.chunk.js"
+  ]
+}
